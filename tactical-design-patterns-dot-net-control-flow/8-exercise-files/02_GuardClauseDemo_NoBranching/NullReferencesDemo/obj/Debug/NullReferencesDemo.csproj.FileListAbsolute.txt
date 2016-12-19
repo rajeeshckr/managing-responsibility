@@ -1,0 +1,37 @@
+C:\Users\zoranh\OneDrive\Documents\Pluralsight\Control Flow\06\02 Demo - Option\NullReferencesDemo\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe.config
+C:\Pluralsight\NullReferencesDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe.config
+C:\Pluralsight\NullReferencesDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe
+C:\Pluralsight\NullReferencesDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.pdb
+C:\Pluralsight\NullReferencesDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.csprojResolveAssemblyReference.cache
+C:\Pluralsight\NullReferencesDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.exe
+C:\Pluralsight\NullReferencesDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.pdb
+C:\Pluralsight\NullReferencesDemo After\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe.config
+C:\Pluralsight\NullReferencesDemo After\NullReferencesDemo\obj\Debug\NullReferencesDemo.exe
+C:\Pluralsight\NullReferencesDemo After\NullReferencesDemo\obj\Debug\NullReferencesDemo.pdb
+C:\Pluralsight\NullReferencesDemo After\NullReferencesDemo\obj\Debug\NullReferencesDemo.csprojResolveAssemblyReference.cache
+C:\Pluralsight\NullReferencesDemo After\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe
+C:\Pluralsight\NullReferencesDemo After\NullReferencesDemo\bin\Debug\NullReferencesDemo.pdb
+C:\Pluralsight\DynamcViewDemo\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe.config
+C:\Pluralsight\DynamcViewDemo\NullReferencesDemo\obj\Debug\NullReferencesDemo.exe
+C:\Pluralsight\DynamcViewDemo\NullReferencesDemo\obj\Debug\NullReferencesDemo.pdb
+C:\Pluralsight\DynamcViewDemo\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe
+C:\Pluralsight\DynamcViewDemo\NullReferencesDemo\bin\Debug\NullReferencesDemo.pdb
+C:\Pluralsight\DynamcViewDemo\NullReferencesDemo\obj\Debug\NullReferencesDemo.csprojResolveAssemblyReference.cache
+C:\Pluralsight\GuardClauseDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe.config
+C:\Pluralsight\GuardClauseDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.exe
+C:\Pluralsight\GuardClauseDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.pdb
+C:\Pluralsight\GuardClauseDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe
+C:\Pluralsight\GuardClauseDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.pdb
+C:\Pluralsight\GuardClauseDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.csprojResolveAssemblyReference.cache
+C:\Users\mediatech-07\Documents\Visual Studio 2015\Projects\GuardClauseDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe.config
+C:\Users\mediatech-07\Documents\Visual Studio 2015\Projects\GuardClauseDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.exe
+C:\Users\mediatech-07\Documents\Visual Studio 2015\Projects\GuardClauseDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.pdb
+C:\Users\mediatech-07\Documents\Visual Studio 2015\Projects\GuardClauseDemo_Before\NullReferencesDemo\obj\Debug\NullReferencesDemo.csprojResolveAssemblyReference.cache
+C:\Users\mediatech-07\Documents\Visual Studio 2015\Projects\GuardClauseDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe
+C:\Users\mediatech-07\Documents\Visual Studio 2015\Projects\GuardClauseDemo_Before\NullReferencesDemo\bin\Debug\NullReferencesDemo.pdb
+C:\Users\mediatech-07\SkyDrive\Documents\Pluralsight\Control Flow\08\Source\02_GuardClauseDemo_NoBranching\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe.config
+C:\Users\mediatech-07\SkyDrive\Documents\Pluralsight\Control Flow\08\Source\02_GuardClauseDemo_NoBranching\NullReferencesDemo\obj\Debug\NullReferencesDemo.exe
+C:\Users\mediatech-07\SkyDrive\Documents\Pluralsight\Control Flow\08\Source\02_GuardClauseDemo_NoBranching\NullReferencesDemo\obj\Debug\NullReferencesDemo.pdb
+C:\Users\mediatech-07\SkyDrive\Documents\Pluralsight\Control Flow\08\Source\02_GuardClauseDemo_NoBranching\NullReferencesDemo\bin\Debug\NullReferencesDemo.exe
+C:\Users\mediatech-07\SkyDrive\Documents\Pluralsight\Control Flow\08\Source\02_GuardClauseDemo_NoBranching\NullReferencesDemo\bin\Debug\NullReferencesDemo.pdb
+C:\Users\mediatech-07\SkyDrive\Documents\Pluralsight\Control Flow\08\Source\02_GuardClauseDemo_NoBranching\NullReferencesDemo\obj\Debug\NullReferencesDemo.csprojResolveAssemblyReference.cache
